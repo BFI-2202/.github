@@ -17,4 +17,5 @@
 
 |                               |                                      |                        |                      |
 |-------------------------------|--------------------------------------|------------------------|----------------------|
-| **Технические дисциплины** | [Алгоритмы и алгоритмические языки](https://github.com/BFI-2202/algorithms_materials) | [Программная инженерия](https://github.com/BFI-2202/engineering_materials) | |
+| **Математические дисциплины** | [Высшая математика](https://github.com/BFI-2202/higher_mathematics_materials) |
+| **Технические дисциплины** | [Алгоритмы и алгоритмические языки](https://github.com/BFI-2202/algorithms_materials) | [Программная инженерия](https://github.com/BFI-2202/engineering_materials) |
