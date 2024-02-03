@@ -1,5 +1,17 @@
 # Второй курс
 
+## Второй семестр
+
+### Каталог конспектов
+
+|  |  |  |  |
+|---|---|---|---|
+| **Гуманитарные дисциплины** | [Иностранный язык](https://github.com/BFI-2202/english_notes) | [Информационная экология](https://github.com/BFI-2202/information_ecology_notes) | [Правоведение](https://github.com/BFI-2202/jurisprudence_notes) |
+| **Математические дисциплины** | [Информационные технологии и программирование](https://github.com/BFI-2202/informatics_programming_notes) | [Структуры и алгоритмы обработки данных](https://github.com/BFI-2202/structures_algorithms_notes) |  |
+|  | [Разработка и стандартизация программных средств и информационных технологий](https://github.com/BFI-2202/development_standardization_notes) |  |  |
+
+### Каталог практических и лабораторных работ
+
 ## Первый семестр
 
 ### Каталог конспектов
