@@ -1,3 +1,14 @@
+# Третий курс
+
+## Первый семестр
+
+### Каталог практических и лабораторных работ
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| **Технические дисциплины** | [Системное программирование](https://github.com/BFI-2202/systems_programming_laboratories) | [Сетевые технологии](https://github.com/BFI-2202/network_technologies_laboratories) | [Компьютерные сети](https://github.com/BFI-2202/computer_networks_laboratories) | [Разработка кроссплатформенного программного обеспечения](https://github.com/BFI-2202/crossplatform_development_laboratories) |
+| | [Операционные системы](https://github.com/BFI-2202/operating_systems_laboratories) |
+
 # Второй курс
 
 ## Второй семестр
